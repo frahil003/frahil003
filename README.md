@@ -10,7 +10,7 @@ Currently I'm enrolled in the course of study "Software Engineering" at the AKAD
 - 📫 How to reach me: frank.hilgenberg@stud.akad.de
 - 😄 Pronouns: He/Him
 
-That's so far for the moment and my first version of the README file.
+That's so far for the moment and for my first version of the README file.
 
 <!--
 **frahil003/frahil003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
