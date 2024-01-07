@@ -7,7 +7,7 @@ Currently I'm enrolled in the course of study "Software Engineering" at the AKAD
 - 🔭 I’m currently working on this page to become familar with GitHub 
 - 🌱 I’m currently enrolled in the classes "Algorithms and Data Structures", "Formale Methoden der Informatik" (I have to translate this...), "English for Computer Science", "Mathematics" and Web-Development (HTML, CSS, JS, PHP and MySQL)
 - 💬 Ask me about what ever you want (answers depent on questions ;-))
-- 📫 How to reach me: Here at Github
+- 📫 How to reach me: frank.hilgenberg@stud.akad.de
 - 😄 Pronouns: He/Him
 
 That's so far for the moment and my first version of the README file.
