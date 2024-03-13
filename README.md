@@ -5,7 +5,7 @@ My name ist <b>Frank Hilgenberg</b>. I am from Mülheim an der Ruhr / Germany.
 Currently I'm enrolled in the course of study "Software Engineering" at the AKAD University / Germany. My desired goal is, for a career change, to get the degree <b>"Bachelor of Engineering - Software Engineering"</b> and to start over in the area of software development.
 
 - 🔭 I’m currently working on this page to become familar with GitHub 
-- 🌱 I’m currently enrolled in the classes "Algorithms and Data Structures", "Formale Methoden der Informatik" (I have to translate this...), "English for Computer Science", "Mathematics" and Web-Development (HTML, CSS, JS, PHP and MySQL)
+- 🌱 I’m currently enrolled in the classes "Algorithms and Data Structures", "Formale Methoden der Informatik" (I have to translate this...), "English for Computer Science", "Mathematics", "Programming with JAVA" and Web-Development (HTML, CSS, JS, PHP and MySQL)
 - 💬 Ask me about what ever you want (answers depent on questions ;-))
 - 📫 How to reach me: frank.hilgenberg@stud.akad.de
 - 😄 Pronouns: He/Him
